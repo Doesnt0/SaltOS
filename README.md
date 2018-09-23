@@ -1,6 +1,5 @@
 # Dubuntu-mate-project
-[简体中文](https://github.com/Doesnt0/Dubuntu-project/blob/master/README%EF%BC%88Simplified%20Chinese%EF%BC%89.md）
-<br>
+
 專門爲樹莓派定製的更好用的Dubuntu mate，更適合用戶的ubuntu mate。<br>
 <br>
 專門針對樹莓派做了若干優化及系統美化,详情请参阅更新日志。<br>
