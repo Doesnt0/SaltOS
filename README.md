@@ -10,7 +10,6 @@
 
 ---
 ## 我們的官網：http://dubuntu.mine-planet.site/ (正在完善中).........<br>
-## 贊助網址：https://afdian.net/@dubuntu/<br>
 ## 下載鏈接：http://dr.mine-planet.site/ 用戶名：guest，密碼同，所有鏡像都在share/Dubuntu下載/<br>
     （不过目前网盘出现问题，暂时不能使用，不过可以在QQ群的群文件下载镜像）
 ## 我們的用户QQ群：858793391
