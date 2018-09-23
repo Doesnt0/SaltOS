@@ -20,4 +20,4 @@ timetraveler314(网站管理）<br>
 J14157（图像音频素材提供）<br>
 SolituedSoren（提供idea）<br>
 ---
-我将不定期上传最新镜像到github，敬请留意。
+我将不定期上传最新镜像到github，敬请留意。。。
