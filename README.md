@@ -1,4 +1,4 @@
-# SaltOS-project
+# SaltOS
 ---
 專門爲樹莓派定製的更好用的ubuntu，更適合用戶的ubuntu。<br>
 <br>
