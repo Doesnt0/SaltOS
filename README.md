@@ -1,6 +1,6 @@
-# Dubuntu-mate-project
+# SaltOS-project
 ---
-專門爲樹莓派定製的更好用的Dubuntu mate，更適合用戶的ubuntu mate。<br>
+專門爲樹莓派定製的更好用的ubuntu，更適合用戶的ubuntu。<br>
 <br>
 專門針對樹莓派做了若干優化及系統美化,详情请参阅更新日志。<br>
 <br>
