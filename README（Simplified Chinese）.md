@@ -1,4 +1,4 @@
-# Dubuntu-mate-project
+# SaltOS-Project
 
 专门为树莓派定制更好用的系统，更適合树莓派的系统，让树莓派拥有接近PC般的体验。<br>
 <br>
