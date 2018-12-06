@@ -20,7 +20,7 @@ ______
 _____
 ### 此时应该显示:
 ### The partition table has been altered.Calling ioctl() to re-read partition table.Re-reading the partition table failed.: Device or resource busyThe kernel still uses the old table. The new table will be used at the next reboot or after you run partprobe(8) or kpartx(8).<br>
-#### `如果没有也不要紧,步骤可以继续`<br>
+#### `如果没有显示也不要紧,步骤可以继续`<br>
 _______
 4.sudo reboot 重新启动<br>
 5.重启之后运行 sudo resize2fs /dev/mmcblk0p2<br>
