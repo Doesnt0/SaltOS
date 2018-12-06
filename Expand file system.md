@@ -5,7 +5,7 @@ _______
 ## 注意！！！
 ### `本方法必须使用另外一个linux机器进行操作`
 ______
-### 首先对TF卡重新进行一番分区。<br>
+### 首先对TF卡重新进行一次分区。<br>
 1.在终端运行 cat /sys/block/mmcblk0/mmcblk0p2/start<br>
 2.记下返回的数字<br>
 3.sudo fdisk /dev/mmcblk0<br>
